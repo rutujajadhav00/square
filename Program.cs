@@ -4,9 +4,7 @@
     {
         static void Main(string[] args)
         {
-            int count = 5;
-            static void Main(string[] args)
-            {
+           
                 int count = 5;
                 for (int i = 1; i <= count; i++)
                 {
@@ -25,7 +23,7 @@
 
 
 
-            }
+            
         }
     }
 }
